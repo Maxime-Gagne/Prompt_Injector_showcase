@@ -1,7 +1,5 @@
 # Prompt_Injector_showcase
 
-[Prompt Injector pub](assets/ChromeStore_main.png)
-
 # Prompt-Pad: Logic Sampler & Context Injector
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/prompt-pad-llm-prompt-context-injector/[ahkkmkbgaidcffhmaamgmdliinlpcagm])
@@ -43,10 +41,10 @@ To comply with the strict Content Security Policies (CSP) and `connect-src` dire
 
 Available for Chromium-based browsers on the [Chrome Web Store](https://chromewebstore.google.com/detail/prompt-pad-llm-prompt-context-injector/[ahkkmkbgaidcffhmaamgmdliinlpcagm]).
 
-[Prompt Injector capture1](assets/capture_inUseWithPrompt_ChatGPT_lightTheme_1280x800.png)
-[Prompt Injector capture2](assets/capture_inUse_Claude_darkmode_1280x800.png)
-[Prompt Injector capture3](assets/capture_optionsPanel_1280x800.png)
-[Prompt Injector capture4](assets/capture_multiLLM_1280x800.png)
+![Prompt Injector capture1](assets/capture_inUseWithPrompt_ChatGPT_lightTheme_1280x800.png)
+![Prompt Injector capture2](assets/capture_inUse_Claude_darkmode_1280x800.png)
+![Prompt Injector capture3](assets/capture_optionsPanel_1280x800.png)
+![Prompt Injector capture4](assets/capture_multiLLM_1280x800.png)
 
 ## 📺 Visual Demonstration
 

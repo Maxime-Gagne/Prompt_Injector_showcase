@@ -1,5 +1,7 @@
 # Prompt_Injector_showcase
 
+![Prompt Injector thumbnail](assets/thumbnail.png)
+
 # Prompt-Pad: Logic Sampler & Context Injector
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/prompt-pad-llm-prompt-context-injector/[ahkkmkbgaidcffhmaamgmdliinlpcagm])

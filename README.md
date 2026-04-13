@@ -6,6 +6,8 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Manifest_V3-8A5CF5)]()
 [![Status](https://img.shields.io/badge/Status-Closed_Source-red)]()
 
+![Prompt Injector capture1](assets/capture_inUseWithPrompt_ChatGPT_lightTheme_1280x800.png)
+
 **Prompt-Injector** is a specialized Chrome extension designed for high-frequency workflows with Large Language Models (ChatGPT, Claude, Gemini). It solves the mechanical friction of prompt orchestration and context-switching through a persistent, zero-telemetry injection interface.
 
 > **Note:** This repository serves as an architectural showcase. The source code is maintained in a private repository to protect the commercial intellectual property of the licensing and deployment infrastructure.
@@ -41,7 +43,7 @@ To comply with the strict Content Security Policies (CSP) and `connect-src` dire
 
 Available for Chromium-based browsers on the [Chrome Web Store](https://chromewebstore.google.com/detail/prompt-pad-llm-prompt-context-injector/[ahkkmkbgaidcffhmaamgmdliinlpcagm]).
 
-![Prompt Injector capture1](assets/capture_inUseWithPrompt_ChatGPT_lightTheme_1280x800.png)
+
 ![Prompt Injector capture2](assets/capture_inUse_Claude_darkmode_1280x800.png)
 ![Prompt Injector capture3](assets/capture_optionsPanel_1280x800.png)
 ![Prompt Injector capture4](assets/capture_multiLLM_1280x800.png)

@@ -1,6 +1,6 @@
 # Prompt_Injector_showcase
 
-![Prompt Injector thumbnail](assets/thunbnail.png)
+![Prompt Injector thumbnail](assets/icon128.png)
 
 # Prompt-Pad: Logic Sampler & Context Injector
 
